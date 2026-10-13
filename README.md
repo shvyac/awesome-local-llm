@@ -104,6 +104,7 @@ Connect to Ollama, llama.cpp, or any OpenAI-compatible endpoint.
 
 - [whichllm](https://github.com/Andyyyy64/whichllm) ![GitHub stars](https://img.shields.io/github/stars/Andyyyy64/whichllm?style=flat&label=%E2%AD%90) - Finds the local LLM that runs and performs best on your hardware, ranked by recent benchmarks.
 - [Hugging Face Hub](https://huggingface.co/models) - Main source of open model weights (search for GGUF, MLX, or AWQ / GPTQ variants).
+- [LocalForge](https://localai.hexmobius.com/en?utm_source=github&utm_medium=awesome_list&utm_campaign=shvyac_awesome_local_llm) - Decision reference for picking a local model or machine: separates memory fit, practical context, third-party measured speed (with quantization, runtime and concurrency) and unknowns, then shows a deployment command. Owns no test hardware and publishes no speed numbers of its own.
 
 ---
 
