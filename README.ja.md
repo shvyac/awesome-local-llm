@@ -103,6 +103,7 @@ Ollama、llama.cpp、各種 OpenAI 互換エンドポイントにつないで使
 ## モデル選び・ユーティリティ
 
 - [whichllm（英語）](https://github.com/Andyyyy64/whichllm) ![GitHub stars](https://img.shields.io/github/stars/Andyyyy64/whichllm?style=flat&label=%E2%AD%90) - 手元のハードで動き、最も性能が出るローカル LLM を最新ベンチマークで選んでくれるツール。
+- [GraphicCardPrices VRAM calculator（英語）](https://graphiccardprices.com/llm-vram-estimator/) - ローカル LLM のメモリ計画に使える無料のブラウザー用計算シート。重みの精度、KV キャッシュ、ランタイムのオーバーヘッド、余裕分を調整できます。クローズドソースで、Amazon US のアフィリエイトリンクから収益を得ています。結果は推定値で、ベンチマークでもモデルが収まる保証でもありません。
 - [Hugging Face Hub（英語）](https://huggingface.co/models) - オープンモデルの主な入手先（GGUF、MLX、AWQ／GPTQ 版などで検索）。
 
 ---

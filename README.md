@@ -103,6 +103,7 @@ Connect to Ollama, llama.cpp, or any OpenAI-compatible endpoint.
 ## Model selection & utilities
 
 - [whichllm](https://github.com/Andyyyy64/whichllm) ![GitHub stars](https://img.shields.io/github/stars/Andyyyy64/whichllm?style=flat&label=%E2%AD%90) - Finds the local LLM that runs and performs best on your hardware, ranked by recent benchmarks.
+- [GraphicCardPrices VRAM calculator](https://graphiccardprices.com/llm-vram-estimator/) - Free browser worksheet for local LLM memory planning with adjustable weight precision, KV cache, runtime overhead and headroom. Proprietary; funded through Amazon US affiliate links. Estimates only, not benchmarks or fit guarantees.
 - [Hugging Face Hub](https://huggingface.co/models) - Main source of open model weights (search for GGUF, MLX, or AWQ / GPTQ variants).
 
 ---
