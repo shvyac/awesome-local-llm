@@ -78,6 +78,7 @@ Ollama、llama.cpp、各種 OpenAI 互換エンドポイントにつないで使
 - [Open WebUI（英語）](https://openwebui.com/) ![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=flat&label=%E2%AD%90) - Ollama や OpenAI 互換 API 向けの高機能なセルフホスト Web UI（RAG、MCP 対応）。（[GitHub](https://github.com/open-webui/open-webui)）
 - [LobeHub（英語）](https://github.com/lobehub/lobehub) ![GitHub stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat&label=%E2%AD%90) - ローカル／クラウド両対応のエージェントワークスペース兼チャット UI（旧 Lobe Chat）。
 - [Cherry Studio（英語）](https://github.com/CherryHQ/cherry-studio) ![GitHub stars](https://img.shields.io/github/stars/CherryHQ/cherry-studio?style=flat&label=%E2%AD%90) - アシスタントやエージェント機能を備えたデスクトップ AI クライアント。Ollama などに対応。
+- [Orkas（英語）](https://github.com/Orkas-AI/Orkas) ![GitHub stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=flat&label=%E2%AD%90) - macOS／Windows 向けのローカルファーストなデスクトップ型エージェントワークスペース（MIT）。互換性のあるローカル／リモートのモデル接続先を設定し、プロジェクトのファイルを基に専門エージェントの作業をまとめる。モデル環境は別途設定。
 - [Chatbox（英語）](https://github.com/chatboxai/chatbox) ![GitHub stars](https://img.shields.io/github/stars/chatboxai/chatbox?style=flat&label=%E2%AD%90) - Ollama に対応したクロスプラットフォームの AI クライアント。
 - [SillyTavern（英語）](https://github.com/SillyTavern/SillyTavern) ![GitHub stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=flat&label=%E2%AD%90) - 上級者向けの LLM フロントエンド（キャラクター／ロールプレイ向け）。
 
