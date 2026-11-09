@@ -118,6 +118,7 @@ Ollama、llama.cpp、各種 OpenAI 互換エンドポイントにつないで使
 - [whichllm（英語）](https://github.com/Andyyyy64/whichllm) ![GitHub stars](https://img.shields.io/github/stars/Andyyyy64/whichllm?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F11%2F04-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/Andyyyy64/whichllm?style=flat) - 手元のハードで動き、最も性能が出るローカル LLM を最新ベンチマークで選んでくれるツール。
 - [llama-swap（英語）](https://github.com/mostlygeek/llama-swap) ![New](https://img.shields.io/badge/-NEW-red?style=flat) ![GitHub stars](https://img.shields.io/github/stars/mostlygeek/llama-swap?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F11%2F08-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/mostlygeek/llama-swap?style=flat) - llama.cpp など任意のローカル推論サーバーの前段に置き、リクエストに応じてモデルを自動で切り替える OpenAI 互換プロキシ。
 - [Hugging Face Hub（英語）](https://huggingface.co/models) - オープンモデルの主な入手先（GGUF、MLX、AWQ／GPTQ 版などで検索）。
+- [LocalForge（英語）](https://localai.hexmobius.com/en?utm_source=github&utm_medium=awesome_list&utm_campaign=shvyac_awesome_local_llm) - ローカルモデルやマシンを選ぶための意思決定リファレンス。メモリ適合、実用コンテキスト、第三者が実測した速度（量子化・ランタイム・同時実行数つき）、不明点を分けて示し、デプロイ用コマンドを提示します。自前の検証機は持たず、独自の速度値も公開しません。
 
 ---
 
