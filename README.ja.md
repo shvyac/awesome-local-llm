@@ -96,6 +96,8 @@ Ollama、llama.cpp、各種 OpenAI 互換エンドポイントにつないで使
 
 ## ローカルファーストな RAG・ナレッジ・エージェント
 
+- [JDE（英語）](https://github.com/Titanium-Devops/jde) ![GitHub stars](https://img.shields.io/github/stars/Titanium-Devops/jde?style=flat&label=%E2%AD%90) - エージェントの完了報告をタスクの各項目と実行記録に照らして確認する TypeScript ライブラリと MCP サーバー。既定ではローカルの Jebadiah 意思決定モデルを使用。
+
 - [PrivateGPT（英語）](https://github.com/zylon-ai/private-gpt) ![GitHub stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F06%2F18-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/zylon-ai/private-gpt?style=flat) - ローカルモデルでプライベート AI アプリを作るための API 基盤（RAG、ツール、MCP、Text-to-SQL）。
 - [Khoj（英語）](https://khoj.dev/) ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F03%2F26-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/khoj-ai/khoj?style=flat) - 手元の文書や Web をもとに答えるセルフホスト可能な「AI セカンドブレイン」。ローカル LLM にも対応。（[GitHub](https://github.com/khoj-ai/khoj)）
 - [Langchain-Chatchat（中国語／英語）](https://github.com/chatchat-space/Langchain-Chatchat) ![GitHub stars](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2024%2F07%2F12-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/chatchat-space/Langchain-Chatchat?style=flat) - ローカルナレッジベースの RAG／エージェントアプリ（ChatGLM、Qwen、Llama。中国語圏向け）。
