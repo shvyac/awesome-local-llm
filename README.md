@@ -96,6 +96,8 @@ Connect to Ollama, llama.cpp, or any OpenAI-compatible endpoint.
 
 ## Local-first RAG, knowledge & agents
 
+- [JDE](https://github.com/Titanium-Devops/jde) ![GitHub stars](https://img.shields.io/github/stars/Titanium-Devops/jde?style=flat&label=%E2%AD%90) - TypeScript library and MCP server that checks agent completion claims against task parts and receipts, using a local Jebadiah decision model by default.
+
 - [PrivateGPT](https://github.com/zylon-ai/private-gpt) ![GitHub stars](https://img.shields.io/github/stars/zylon-ai/private-gpt?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F06%2F18-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/zylon-ai/private-gpt?style=flat) - API layer for private AI apps on local models: RAG, tools, MCP, text-to-SQL.
 - [Khoj](https://khoj.dev/) ![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2026%2F03%2F26-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/khoj-ai/khoj?style=flat) - Self-hostable AI second brain over your docs and the web; works with local LLMs. ([GitHub](https://github.com/khoj-ai/khoj))
 - [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) ![GitHub stars](https://img.shields.io/github/stars/chatchat-space/Langchain-Chatchat?style=flat&label=%E2%AD%90) ![Release date](https://img.shields.io/badge/release-2024%2F07%2F12-blue?style=flat) ![Last commit](https://img.shields.io/github/last-commit/chatchat-space/Langchain-Chatchat?style=flat) - Local knowledge-base RAG and agent app (ChatGLM, Qwen, Llama; Chinese-oriented).
